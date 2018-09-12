@@ -1,0 +1,147 @@
+body {
+    background-image: url(image/ff.jpg);
+    
+    background-size: 100%;
+
+}
+.img1 {
+    position: relative;
+    left : 200px;
+    top: 90px;
+}
+.dev1 {
+    display: flex;
+    border: 1px solid rgb(64, 64, 66);
+    background-color: rgb(64, 64, 66);
+    border-radius: 5px;
+    position: relative;
+    top: 110px;
+    left: 200px;
+    margin-right: 350px;
+    
+    
+    
+}
+.acceuil {
+    border: 1px solid rgb(64, 64, 66);
+    padding: 15px;
+    color: white;
+}
+.acceuil:hover {
+    border-bottom: 1px solid white;
+}
+.about {
+    border: 1px solid rgb(64, 64, 66);
+    padding: 15px;
+    color: white;
+    
+}
+.demo {
+    border: 1px solid rgb(64, 64, 66);
+    padding: 15px;
+    color: white;
+
+}
+.license {
+    border: 1px solid rgb(64, 64, 66);
+    padding: 15px;
+    color: white;
+}
+.div2 {
+    border: 1px solid ;
+    position: relative;
+    top: 110px;
+    margin-right: 350px;
+    left:200px;
+    background-image: url(image/ww.jpg);
+    
+    background-size: 100%;
+    padding: 45px;
+    border-bottom-color: white;
+    
+}
+.titre {
+    position: relative;
+    left: 50px;
+    color: blue;
+}
+.bloc1 {
+    margin-right: 400px;
+    
+    border: 1px solid white;
+    background-image: url(image/g.jpg);
+    background-repeat: no-repeat;
+    background-size: 100%;
+    border-radius: 25px;
+    
+}
+strong {
+    color: orangered;
+}
+
+}
+h2 {
+    position: relative;
+    left: 50px;
+}
+ol {
+   font-size: 20px;
+   position: relative;
+   left: 5px;
+}
+.div3{
+    border: 1px solid;
+    border-top-color: white;
+    background-image: url(image/ww.jpg);
+    background-repeat: no-repeat;
+    background-size: 100%;
+    margin-right: 500px;
+    position: relative;
+    left: 200px;
+    top: 109px;
+}
+.login {
+    
+    position: absolute;
+    left : 650px;
+    top : 275px;
+    background-image: url(image/a.jpg);
+    background-repeat: no-repeat;
+    background-size: 100%;
+    border-radius: 25px;
+    
+}
+.login2 {
+    border: 1px solid black;
+    color: white;
+    margin-right: 200px;
+    padding: 20px;
+    position: relative;
+    left : 40px;
+    background-color: black;
+    
+}
+.img2{
+    position: absolute;
+    left: 700px;
+    top : 35px;
+}
+.bloc3{
+    border: 1px solid black;
+    margin-right: 300px;
+    position:absolute;
+    left: 520px;
+    top : 550px;
+    margin-left: 30px;
+    background-image: url(image/a.jpg);
+    background-repeat: no-repeat;
+    background-size: 100%;
+    border-radius: 25px;
+}
+.tet {
+    position: absolute;
+    left: 550px;
+    top : 500px;
+}
+
+
